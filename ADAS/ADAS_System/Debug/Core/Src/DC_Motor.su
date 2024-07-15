@@ -1,0 +1,11 @@
+../Core/Src/DC_Motor.c:16:6:DC_voidInit	0	static
+../Core/Src/DC_Motor.c:23:6:DC_voidMoveForward	16	static
+../Core/Src/DC_Motor.c:30:6:DC_voidMoveForwardRight	16	static
+../Core/Src/DC_Motor.c:36:6:DC_voidMoveForwardLeft	16	static
+../Core/Src/DC_Motor.c:43:6:DC_voidMoveBackward	16	static
+../Core/Src/DC_Motor.c:50:6:DC_voidMoveBackwardRight	16	static
+../Core/Src/DC_Motor.c:56:6:DC_voidMoveBackwardLeft	16	static
+../Core/Src/DC_Motor.c:63:6:DC_voidTurnRight	8	static
+../Core/Src/DC_Motor.c:71:6:DC_voidTurnLeft	8	static
+../Core/Src/DC_Motor.c:78:6:DC_voidNoTurn	8	static
+../Core/Src/DC_Motor.c:84:6:DC_voidStop	8	static
